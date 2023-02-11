@@ -387,7 +387,7 @@ header nav input::placeholder{
 footer{
     clear: both;
     font-family: sans-serif;
-    height: 530px;
+    min-height: 530px;
     background: rgba(0,0,0,0.8);
     border-top-left-radius: 100px;
     width: 100%;
